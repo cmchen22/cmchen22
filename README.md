@@ -1,5 +1,5 @@
-Hi 👋 My name is Christopher Chen
-=================================
+Hi My name is Christopher Chen
+============================+====
 
 Software Engineer
 -----------------
